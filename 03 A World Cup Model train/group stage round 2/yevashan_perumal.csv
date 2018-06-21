@@ -1,0 +1,10 @@
+FixtureID,team1,team2,goalDiff,prob_team1,prob_team2,prob_draw
+15,Colombia,Japan,-1,0.17,0.6,0.23
+16,Poland,Senegal,0,0.37,0.35,0.28
+17,Russia,Egypt,-2,0.37,0.56,0.07
+18,Portugal,Morocco,1,0.63,0.2,0.17
+19,Uruguay,Saudi Arabia,1,0.6,0.2,0.2
+20,IR Iran,Spain,-2,0.2,0.7,0.1
+21,Denmark,Australia,0,0.4,0.1,0.5
+22,France,Peru,1,0.4,0.26,0.34
+23,Argentina,Croatia,-1,0.13,0.74,0.13
